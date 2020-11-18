@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Lauren Szlosek 
+2. Student ID: 2365979
+3. Email: szlosek@chapman.edu
+4. Class: 298-02
 5. Assignment: numbers 
 
 ## Application Purpose
