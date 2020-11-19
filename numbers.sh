@@ -6,7 +6,7 @@ echo "Enter a positve number: "
 read value
 N=1
 
-while [ $N -le $value ]
+while [ $N -le "$value" ]
 do
 if [ $((N%2)) -eq 0 ];
 then
